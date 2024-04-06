@@ -1,0 +1,47 @@
+.fff div {
+    display: inline-block;
+    margin: 20px;
+    background-color: #eee;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 6;
+}
+
+.one {
+    border: 5px solid red;
+    outline: 5px solid black;
+}
+
+.two {
+    border-style: solid;
+    border-color: blue green;
+    outline: 5px solid black;
+}
+
+.three {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red green blue yellow;
+    outline: 5px solid black;
+}
+
+.parent div {
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px;
+}
+.four{
+    border-left: 10px solid brown;
+    outline: 10px solid #eee;
+
+}
+.six{
+    border-left: 10px solid rgb(32, 51, 80);
+    outline: 10px solid #eee;
+}
+
+.five {
+    visibility: hidden;
+}

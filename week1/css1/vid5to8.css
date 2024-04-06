@@ -1,0 +1,97 @@
+ .fff div{
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    color: white;
+}
+.assign-1-shape-1{
+    background-color: blueviolet;
+    background-color: rgb(138, 43, 226);
+    background-color:hsl(271, 76%, 53%)
+}
+.assign-1-shape-2{
+    background-color: rgb(138 43 226 / 50%);
+}
+.assign-1-shape-3{
+    background-color: rgb(138 43 226 / 10%);
+}
+.one div{
+    width: 400px;
+    height: 400px;
+    color: white;
+    background-color: #eee;
+    margin: 20px auto;
+    padding: 20px;
+    
+}
+.assign-2-shape-1{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: no-repeat;
+}
+.assign-2-shape-2{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-y;
+}
+.assign-2-shape-3{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-x;
+}
+.assign-2-shape-4{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat;
+}
+.two div,.three div{
+    width: 400px;
+    height: 400px;
+    color: white;
+    background-color: #eee;
+    margin: 20px auto;
+    padding: 20px;
+    
+}
+.assign-3-shape-1{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: no-repeat;
+}
+.assign-3-shape-2{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-y;
+    background-position: right;
+
+}
+.assign-3-shape-3{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-X;
+    background-position: bottom;
+
+}
+.assign-3-shape-4{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat;
+   
+
+}
+.assign-4-shape-1{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+
+}
+.assign-4-shape-2{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 80%;
+}
+.assign-4-shape-3{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-y;
+    background-position: bottom;
+    background-size: 80%;
+}
+.assign-4-shape-4{
+    background-image:url("c:\Users\Lenovo\OneDrive\Pictures\Saved Pictures\css-assignment-5-8 (1).png");
+    background-repeat: repeat-y;
+    background-position:bottom right;
+    background-size: 25%;
+}
